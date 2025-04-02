@@ -7,4 +7,4 @@ Contenido:
   - `data_PEC1.csv`: matriz de abundancia normalizada de fosfopéptidos
   - `colDataPEC1.csv`: metadatos de las muestras
   - `PEC1_ADO_Francisco_Aparicio`: código completo en R en R Markdown junto con el informe final
-  - `Informe final`: en fromato .pdf de 10 páginas más Anexo
+  - `Informe final`: en formato .pdf de 10 páginas más Anexo
