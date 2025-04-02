@@ -6,4 +6,5 @@ Contenido:
   - `SummarizedExperiment_PEC1_fosfoproteomica`: objeto con los datos y metadatos integrados
   - `data_PEC1.csv`: matriz de abundancia normalizada de fosfopéptidos
   - `colDataPEC1.csv`: metadatos de las muestras
-  - `PEC1_ADO_Francisco_Aparicio`: informe final del análisis y código completo en R Markdown
+  - `PEC1_ADO_Francisco_Aparicio`: código completo en R en R Markdown junto con el informe final
+  - `Informe final`: en fromato .pdf de 10 páginas más Anexo
